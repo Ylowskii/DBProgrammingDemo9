@@ -9,3 +9,14 @@ C:\DatabaseProgramming\github_repos\Demo9\Demo9\Demo9\bin\Debug\Demo9.exe
 C:\DatabaseProgramming\github_repos\Demo9\Demo9\Demo9\bin\Debug\Demo9.pdb
 C:\DatabaseProgramming\github_repos\Demo9\Demo9\Demo9\obj\Debug\Demo9.exe
 C:\DatabaseProgramming\github_repos\Demo9\Demo9\Demo9\obj\Debug\Demo9.pdb
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\bin\Debug\Demo9.exe.config
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\bin\Debug\Demo9.exe
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\bin\Debug\Demo9.pdb
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\Demo9.csproj.AssemblyReference.cache
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\Demo9.csproj.SuggestedBindingRedirects.cache
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\DBProgrammingDemo9.frmProductMaintenance.resources
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\Demo9.Properties.Resources.resources
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\Demo9.csproj.GenerateResource.cache
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\Demo9.csproj.CoreCompileInputs.cache
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\Demo9.exe
+C:\Users\YLOom\Desktop\NBCC\NBCC Spring 2022\Database Programming\9 - Manipulating Data\Demo9\Demo9\Demo9\obj\Debug\Demo9.pdb

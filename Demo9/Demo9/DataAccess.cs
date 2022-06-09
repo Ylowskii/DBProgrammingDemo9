@@ -81,6 +81,28 @@ namespace DBProgrammingDemo9
 
             return returnValue;
         }
+
+        //Execute non-query returns rows affected
+        public static  int SendData(string sql)
+        {
+            int rowsAffected = 0;
+
+
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                SqlCommand cmd = new SqlCommand(sql, conn);
+
+                conn.Open();
+                rowsAffected = cmd.ExecuteNonQuery();
+            }
+
+            return rowsAffected;
+        }
+
+        public static string replaceSQL(string sql)
+        {
+            return sql.Replace("'", "''");
+        }
             
     }
 }
